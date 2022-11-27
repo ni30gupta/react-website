@@ -1,5 +1,6 @@
 {
-  "name": "landingpage-react-template",
+  "name": "Bshydraulic",
+  "homepage":"https://bshydraulic.in",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
